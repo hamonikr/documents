@@ -16,7 +16,7 @@ AskGPT는 HamoniKR OS 8 에 탑재된 강력한 시스템 문제 해결 도구�
 
 API 키를 생성하고 발급받는 방법은 이 문서의 마지막 섹션을 확인하세요.
 
-이미 OpenAI 의 API 키가 있는 경우, 다음과 같이 \~/.ask\_openai.conf  파일에 키를 저장해 주세요.
+이미 OpenAI 의 API 키가 있는 경우, 다음과 같이 <mark style="color:red;">**\~/ask\_openai.conf**</mark>  파일에 키를 저장해 주세요.
 
 ```
 [openai]
@@ -30,8 +30,9 @@ api_key = 발급받은 API키
 * **오류 메세지 복사**: `Ctrl + C`를 눌러 시스템의 오류 메세지를 클립보드로 복사합니다.
 * **단축키 사용**: `Ctrl + Alt + A`를 눌러 AskGPT 기능을 활성화합니다.
 * **답변 확인**: ChatGPT가 제공하는 해결 방법이나 정보를 화면에서 바로 확인합니다.
+* **추가 질문**: 더 질문할 내용이 있는 경우 맨 아래쪽에 질문을 추가하고 '추가 질문' 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (556).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ask_gpt.png" alt=""><figcaption></figcaption></figure>
 
 ### OpenAI API 키 생성 및 가격 안내
 
