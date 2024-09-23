@@ -69,7 +69,6 @@
     * [기본 터미널 Zsh 적용](key-features/hamonikr-tui/hamonikr-zsh.md)
     * [Hamonikr-cli-tools](key-features/hamonikr-tui/hamonikr-cli-tools.md)
     * [ncdu (disk usage analysis)](key-features/hamonikr-tui/ncdu-disk-usage-analysis.md)
-    * [systemd-tui (systemd service management tui)](key-features/hamonikr-tui/systemd-tui-systemd-service-management-tui.md)
   * [Game](key-features/game/README.md)
     * [리그오브레전드(LOL) 설치](key-features/game/lol.md)
     * [배틀넷(battleNet) 설치](key-features/game/battlenet.md)

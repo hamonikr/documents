@@ -52,10 +52,6 @@ coverY: 0
 [vaccine.md](../key-features/ahnlab-v3lite/vaccine.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="encrypt.md" %}
 [encrypt.md](encrypt.md)
 {% endcontent-ref %}
@@ -94,10 +90,6 @@ coverY: 0
 
 {% content-ref url="../key-features/desktop/conky.md" %}
 [conky.md](../key-features/desktop/conky.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="iso-usb-ventoy.md" %}
