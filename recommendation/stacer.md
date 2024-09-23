@@ -21,7 +21,7 @@ description: '- 불필요한 파일 정리 프로그램. ( HamoniKR에 설치된
 
 ### 시스템 및 서비스 관리 (Stacer) 실행하기.
 
-Stacer는 Albert (alt + space) 또는 프로그램 메뉴 > 관리 > 시스템및서비스관리로 실행할 수 있습니다.&#x20;
+Stacer는 Albert (Ctrl + space) 또는 프로그램 메뉴 > 관리 > 시스템 및 서비스관리 로 실행할 수 있습니다.&#x20;
 
 <div>
 

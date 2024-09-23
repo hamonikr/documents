@@ -6,7 +6,7 @@
   * [하모니카 7.0에서 8.0으로 업그레이드](install/osupgrade.md)
   * [하모니카에서 부팅 USB 제작](install/makebootusb/README.md)
     * [Ventoy 부팅 USB만들기](install/makebootusb/ventoy-usb.md)
-    * [USB 이미지 라이터로 부팅 USB 만들기](install/makebootusb/usb-usb.md)
+    * [USB 이미지 쓰기로 부팅 USB 만들기](install/makebootusb/usb-usb.md)
   * [하모니카 설치](install/installhamonikr.md)
   * [윈도우와 하모니카 멀티부팅 설치](install/installmultiboot.md)
   * [기타 설치 관련 정보](install/etc.md)

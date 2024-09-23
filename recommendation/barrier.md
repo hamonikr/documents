@@ -26,7 +26,7 @@ $ sudo apt install -y barrier
 
 ### Barrier 실행하기.
 
-프로그램 메뉴에서 "barrier" 또는 Albert(alt + space) barrier로 실행합니다.&#x20;
+프로그램 메뉴> "barrier" 또는 Albert(Ctrl + Space) barrier로 실행합니다.&#x20;
 
 <div>
 

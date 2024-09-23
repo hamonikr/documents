@@ -1,6 +1,6 @@
-# USB 이미지 라이터로 부팅 USB 만들기
+# USB 이미지 쓰기로 부팅 USB 만들기
 
-### **USB 이미지 라이터로 부팅 USB 만들기** <a href="#id-2.1-os-os" id="id-2.1-os-os"></a>
+### **USB 이미지 쓰기로 부팅 USB 만들기** <a href="#id-2.1-os-os" id="id-2.1-os-os"></a>
 
 하모니카 OS에서 부팅 USB를 만드는 방법입니다.
 

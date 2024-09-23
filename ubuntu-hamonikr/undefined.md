@@ -1,6 +1,6 @@
 # 업그레이드 방법
 
-## Ubuntu에서  HamoniKR 7.0으로 데스크톱 환경으로 변경하기.
+## Ubuntu에서  HamoniKR 데스크톱 환경으로 변경하기.
 
 ## 1. Ubuntu-HamoniKR-Respin 페키지 설치.
 
@@ -31,7 +31,7 @@ sudo apt-get install -y ubuntu-hamonikr-respin
 
 HamoniKR 저장소 추가가 완료되었으면, Ubuntu-Hamonikr-Respin 패키지를 설치합니다.&#x20;
 
-* Ubuntu-Hamonikr-respin 패키지는 HamoniKR 7.0 KumKang 버전에 사용되고 있는 패키지들을 한번에 설치할 수 있도록 도와주는 패키지입니다.&#x20;
+* Ubuntu-Hamonikr-respin 패키지는 HamoniKR 에서 사용되고 있는 패키지들을 한번에 설치할 수 있도록 도와주는 패키지입니다.&#x20;
 
 ```
 # HamoniKR 데스크톱 환경 설치.
@@ -48,9 +48,9 @@ Ubuntu-Hamonikr-Respin을 설치를 진행하시면 아래 화면과 같이 설�
 
 `gdm3`와 `lightdm`는 Linux 시스템에서 사용되는 두 가지 인기 있는 디스플레이 매니저입니다. 디스플레이 매니저는 그래픽 사용자 인터페이스(GUI)를 통해 사용자가 로그인할 수 있게 하는 애플리케이션입니다.
 
-**원하시는 디스플레이 메니저를  gdm3 또는 lightdm 을 선택해주세요.**
+**원하시는 디스플레이 메니저를  gdm 또는 lightdm 으로 선택해주세요.**
 
-( 참고로 Ubuntu는 gdm3를 기본 디스플레 메니저, HamoniKR은 Lightdm을 기본 디스플레이 메니저)
+(Ubuntu는 gdm3를 기본 디스플레 메니저, HamoniKR은 Lightdm을 기본 디스플레이 매니저로 사용)
 
 <figure><img src="../.gitbook/assets/3 (16).png" alt=""><figcaption></figcaption></figure>
 

@@ -8,18 +8,9 @@ description: 미디어 다운로더는 웹사이트에서 재생목록을 다운
 
 
 
-### 미디어 다운로더 설치하기&#x20;
+### 미디어 다운로더 실행
 
-```
-$ sudo apt-get update or apu (zsh alias)
-$ sudo apt-get install -y media-downloader or api media-downloader
-```
-
-
-
-### 미디어 다운로더 실행하기
-
-Albert (alt + space) 에서 미디어 다운로더 입력 후 실행하거나 프로그램 메뉴 > 음악과비디오 > 미디어 다운로더를 실행할 수 있습니다.&#x20;
+Albert (Ctrl + space) 에서 미디어 다운로더 입력 후 실행하거나 프로그램 메뉴 > 음악과비디오 > 미디어 다운로더를 실행할 수 있습니다.&#x20;
 
 <div>
 
