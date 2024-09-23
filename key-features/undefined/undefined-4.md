@@ -12,6 +12,12 @@ Hamonikr OS의  "Repair Filename" 프로그램이란.
 
 <figure><img src="../../.gitbook/assets/1 (12).png" alt=""><figcaption></figcaption></figure>
 
+마우스 우측 버튼을 클릭했을때 만약 메뉴가 보이지 않는다면 터미널에서 다음과 같이 패키지를 설치 후 시스템을 재시작 하시기 바랍니다.
+
+```
+sudo apt install nemo-filename-repairer
+```
+
 2. "파일 이름 고치기"  프로그램이 실행이되며, 원하시는 인코딩을 선택하신 후 "적용"버튼을 클릭하시면 정상적으로 변경된 파일을 확인하실 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
