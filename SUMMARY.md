@@ -59,7 +59,7 @@
       * [여러개의 파일이름을 변경할때](key-features/undefined/undefined-5/undefined-1.md)
   * [시스템 백업 및 복구 도구](key-features/undefined-1/README.md)
     * [파티션 백업 복구 qt-fsarchive](key-features/undefined-1/qt-fsarchive.md)
-    * [fsarchiver (터미널 사용법) - 메뉴얼 제작성](key-features/undefined-1/fsarchiver-partition-backup-and-restore.md)
+    * [fsarchiver (CLI)](key-features/undefined-1/fsarchiver-partition-backup-and-restore.md)
   * [부팅 USB 제작 도구](key-features/usb/README.md)
     * [BalenaEcther - 부팅 USB 제작 도구](key-features/usb/balenaecther-usb.md)
     * [Ventoy - 부팅 USB 제작 도구](key-features/usb/ventoy.md)
