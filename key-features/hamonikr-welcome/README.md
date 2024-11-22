@@ -40,7 +40,7 @@
 
     1. 카카오톡 - [설치 및 사용법](https://docs.hamonikr.org/hamonikr-8.0/key-features/hamonikr-welcome/kakaotalk)
     2. 배틀넷 - [설치 및 사용법](../game/battlenet.md)
-    3. 시스템 스냅샷 관리(SystemBack) - [설치 및 사용법](../../undefined-1/systemback.md)
+    3. 시스템 스냅샷 관리(SystemBack) - [설치 및 사용법](../../recommend/systemback.md)
     4. 라이브 USB 제작 도구 - [설치 및 사용법](../usb/usb-live-usb-creator.md)
 
 

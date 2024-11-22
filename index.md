@@ -4,8 +4,8 @@
 [install](install/)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-1/" %}
-[undefined-1](undefined-1/)
+{% content-ref url="recommend/" %}
+[recommend](recommend/)
 {% endcontent-ref %}
 
 {% content-ref url="ai/" %}

@@ -28,7 +28,7 @@ sudo apt install hamonikr-printer-drivers
 
 "**프로그램 메뉴 > 관리 > 프린터** " 또는 "**시스템 설정의 프린터**" 실행 (또는 터미널에서 “system-config-printer” 명령어 입력)
 
-<figure><img src="../../.gitbook/assets/image (510).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (510).png" alt=""><figcaption></figcaption></figure>
 
 \
 
@@ -68,7 +68,7 @@ sudo apt install hamonikr-printer-drivers
 
 기본 제공하는 프린터 드라이버 목록에서 추가할 프린터가 있는 경우에는 적합한 제조사와 프린터 모델을 선택합니다.
 
-<img src="../../.gitbook/assets/image (509).png" alt="" data-size="original">\
+<img src="../.gitbook/assets/image (509).png" alt="" data-size="original">\
 
 
 프린터 제조사 선택
