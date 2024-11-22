@@ -64,12 +64,12 @@ MS Windows 이외의 선택권이 없는 사용자들에게 소프트웨어 라�
 
 #### 편리한 시스템 관리와 문제 해결
 
-* **AskGPT 기능**: 시스템 문제를 쉽고 빠르게 해결할 수 있는 ChatGPT 기반의 AskGPT 기능을 제공합니다. (Ctrl + Alt + A)  - [자세히 보기](recommendation/askgpt.md)
-* **향상된 시스템 관리 도구**: 시스템 성능을 쉽게 모니터링하고 관리할 수 있습니다. - [자세히 보기](recommendation/stacer.md)
+* **AskGPT 기능**: 시스템 문제를 쉽고 빠르게 해결할 수 있는 ChatGPT 기반의 AskGPT 기능을 제공합니다. (Ctrl + Alt + A)  - [자세히 보기](undefined-2/askgpt.md)
+* **향상된 시스템 관리 도구**: 시스템 성능을 쉽게 모니터링하고 관리할 수 있습니다. - [자세히 보기](undefined-2/stacer.md)
 
 #### 다양한 사용자 경험과 편리한 기능
 
-* **데스크톱 퀵 런처**: Ctrl + Space를 눌러 빠르게 원하는 애플리케이션을 실행할 수 있습니다. [자세히 보기](recommendation/albert.md)&#x20;
+* **데스크톱 퀵 런처**: Ctrl + Space를 눌러 빠르게 원하는 애플리케이션을 실행할 수 있습니다. [자세히 보기](undefined-2/albert.md)&#x20;
 * **데스크톱 스타일 전환 기능**: 사용자가 원하는 대로 데스크톱 환경을 쉽게 변경할 수 있습니다. [자세히 보기](key-features/hamonikr-welcome/)
 * **멋진 사용자 로그인 화면** ([https://github.com/hamonikr/ukui-greeter](https://github.com/hamonikr/ukui-greeter))
 
@@ -93,12 +93,12 @@ MS Windows 이외의 선택권이 없는 사용자들에게 소프트웨어 라�
 
 * **다양한 소프트웨어 제공**: 소프트웨어 매니저를 통해 6만여 개의 애플리케이션을 쉽게 설치하고 관리할 수 있습니다.&#x20;
 * **윈도우 전용 프로그램 지원**: 카카오톡, 배틀넷, 리그 오브 레전드 등 윈도우 전용 프로그램도 문제없이 설치하고 사용할 수 있습니다. [자세히 보기](key-features/hamonikr-welcome/kakaotalk.md)
-* **스마트한 메모 프로그램**: 옵시디언으로 제텔카스텐(Zettelkasten)을 적용 해보세요.  [자세히 보기](recommendation/obsidian.md)
+* **스마트한 메모 프로그램**: 옵시디언으로 제텔카스텐(Zettelkasten)을 적용 해보세요.  [자세히 보기](undefined-2/obsidian.md)
 
 #### 데이터 관리 및 백업
 
 * **파티션 백업 및 복구 프로그램**: 데이터를 안전하게 백업하고 필요 시 복구할 수 있는 기능을 제공합니다. [자세히 보기](key-features/undefined-1/qt-fsarchive.md)
-* **라이브 이미지 제작**: 사용 중인 PC 환경을 그대로 저장하고 배포할 수 있습니다. [자세히 보기](recommendation/systemback.md)
+* **라이브 이미지 제작**: 사용 중인 PC 환경을 그대로 저장하고 배포할 수 있습니다. [자세히 보기](undefined-2/systemback.md)
 
 #### 효율적인 작업 도구
 
@@ -106,7 +106,7 @@ MS Windows 이외의 선택권이 없는 사용자들에게 소프트웨어 라�
 * **스크린샷 및 동영상 녹화**: 패널에서 간단히 스크린샷을 찍거나 동영상을 녹화할 수 있습니다.
 * **빠른 화면 녹화**: 단축키 Ctal+Shift+Alt+R 을 누르면 녹화가 시작되고 한번 더 누르면 종료됩니다. 저장된 녹화영상은 사용자 홈 > 비디오 폴더에 저장됩니다.
 * 기본 터미널 ZSH + powerlini10k 적용 (CTRL+ALT+T)  [자세히 보기](key-features/hamonikr-tui/hamonikr-zsh.md)
-* 명령어를 몰라도 파일 탐색기에서 git 명령어를 GUI로 실행할 수 있는 기능. [자세히 보기](recommendation/git-./rabbitvcs-git-git.md)
+* 명령어를 몰라도 파일 탐색기에서 git 명령어를 GUI로 실행할 수 있는 기능. [자세히 보기](undefined-2/git-./rabbitvcs-git-git.md)
 * 이미지를 PDF로 변환, 이미지 크기조정, 폰트 설치, 움직이는 GIF 만들기 등 상황에 맞는 다양한 명령을 파일 탐색기에서 제공
 
 ### 하모니카 8.0 릴리즈 노트 <a href="#release_note" id="release_note"></a>
