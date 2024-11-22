@@ -64,8 +64,8 @@ coverY: 0
 [copyq.md](copyq.md)
 {% endcontent-ref %}
 
-{% content-ref url="../undefined-1/printers.md" %}
-[printers.md](../undefined-1/printers.md)
+{% content-ref url="../recommendation/undefined/printers.md" %}
+[printers.md](../recommendation/undefined/printers.md)
 {% endcontent-ref %}
 
 {% content-ref url="web-plugins.md" %}
@@ -76,8 +76,8 @@ coverY: 0
 [bashtop.md](bashtop.md)
 {% endcontent-ref %}
 
-{% content-ref url="../undefined-2/systemback.md" %}
-[systemback.md](../undefined-2/systemback.md)
+{% content-ref url="../recommendation/systemback.md" %}
+[systemback.md](../recommendation/systemback.md)
 {% endcontent-ref %}
 
 {% content-ref url="../key-features/usb/usb-live-usb-creator.md" %}

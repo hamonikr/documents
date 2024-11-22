@@ -4,6 +4,13 @@
 
 
 
+|   **Timeshift**   |      시스템 설정 및 파일 스냅샷 생성      |  시스템 파일 및 설정  |    시스템 파일   |  O  |  쉬움 |
+| :---------------: | :--------------------------: | :-----------: | :---------: | :-: | :-: |
+| **Qt-fsarchiver** |     전체 디스크 또는 파티션 백업 및 복구    |  디스크/파티션 이미지  |    전체 시스템   |  O  |  중간 |
+|   **Systemback**  | 시스템 및 사용자 데이터 백업 및 복구, 설치 지원 | 시스템 및 사용자 데이터 | 시스템/사용자 데이터 |  O  |  쉬움 |
+
+
+
 ## **Timeshift를 이용한 시스템 백업 및 복구**
 
 **Timeshift 개요**
@@ -64,6 +71,6 @@
    * \*\*"Restore Points"\*\*에서 복원 지점 선택.
    * **"Restore System"** 클릭 후 재부팅.
 
-{% content-ref url="undefined-2/systemback.md" %}
-[systemback.md](undefined-2/systemback.md)
+{% content-ref url="recommendation/systemback.md" %}
+[systemback.md](recommendation/systemback.md)
 {% endcontent-ref %}
