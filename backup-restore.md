@@ -71,6 +71,6 @@
    * \*\*"Restore Points"\*\*에서 복원 지점 선택.
    * **"Restore System"** 클릭 후 재부팅.
 
-{% content-ref url="recommendation/systemback.md" %}
-[systemback.md](recommendation/systemback.md)
+{% content-ref url="undefined-1/systemback.md" %}
+[systemback.md](undefined-1/systemback.md)
 {% endcontent-ref %}
