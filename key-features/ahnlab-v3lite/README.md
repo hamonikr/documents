@@ -1,8 +1,8 @@
 # 백신(Ahnlab-v3lite)
 
-HamoniKR 7.0 에서는 사용자들의 보안을 위해 Ahnlab-v3lite를 설치를 지원하고 있습니다.&#x20;
+HamoniKR OS 에서는 사용자들의 보안을 위해 Ahnlab-v3lite를 설치를 지원하고 있습니다.&#x20;
 
-Ahnlab-v3lite를 무룔로 사용하실 수 있습니다.&#x20;
+Ahnlab-v3lite를 무료로 사용하실 수 있습니다.&#x20;
 
 
 
@@ -13,6 +13,10 @@ Ahnlab-v3lite를 무룔로 사용하실 수 있습니다.&#x20;
 ```
 $ sudo apt-get install ahnlab-v3lite
 ```
+
+또는 프로그램 메뉴> 환영합니다 실행후 다음과 같은 화면에서 설치합니다.
+
+<figure><img src="../../.gitbook/assets/image (565).png" alt=""><figcaption></figcaption></figure>
 
 
 

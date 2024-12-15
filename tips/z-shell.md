@@ -42,11 +42,7 @@ zsh의 더 자세한 설명은 [https://github.com/hamonikr/hamonikr-zsh](https:
 
 정상적으로 설치가 완료되면 터미널을 열었을 때 아래와 같은 화면이 보여집니다.
 
-<div align="center">
-
-<figure><img src="../.gitbook/assets/3 (8).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../.gitbook/assets/3 (8).png" alt=""><figcaption></figcaption></figure></div>
 
 \
 
@@ -72,11 +68,7 @@ zsh를 열었을 때 터미널 폰트가 적용되지 않은 경우 폰트설정
 
 <figure><img src="../.gitbook/assets/5 (11).png" alt=""><figcaption></figcaption></figure>
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/6 (9).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/6 (9).png" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -186,7 +178,7 @@ j 명령어를 사용할 때 이름이 동일한 디렉토리나 파일이 있�
 
 이전에 입력한 적이 있는 명령어는 명령을 다 입력하기 전에 옅은 회색으로 완성된 내용이 표시됩니다.&#x20;
 
-**옅은 회색으로 나온 명령어를 완성시키려면  키보드 방향키 "→"**를 눌러줍니다.&#x20;
+**옅은 회색으로 나온 명령어를 완성시키려면  키보드 방향키 "→"**&#xB97C; 눌러줍니다.&#x20;
 
 <figure><img src="../.gitbook/assets/17.png" alt=""><figcaption></figcaption></figure>
 

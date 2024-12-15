@@ -32,7 +32,7 @@ sudo apt-get install apt-fast
 
 7.1. By moving the Firefox network cache from your hard disk to the RAM, you diminish the amount of disk writes. This'll probably make your Firefox noticeably faster. The price you pay is small: it'll only "cost" you 200 MB of your RAM.\
 \
-_**Note:**_ don't do this when your computer has less than 2 GB of RAM! Because with very little RAM, even 200 MB can't be missed.\
+&#xNAN;_**Note:**_ don't do this when your computer has less than 2 GB of RAM! Because with very little RAM, even 200 MB can't be missed.\
 \
 Proceed like this:\
 \
@@ -54,7 +54,7 @@ e. Then you're going to determine how much memory can be used as RAM cache. [Cop
 browser.cache.memory.capacity\
 You'll probably won't find an existing instance. If (as expected) nothing was found, create it like this:\
 \
-_**Right-**_click on the blank area in Firefox, then select New - Integer.\
+&#xNAN;_**Right-**_&#x63;lick on the blank area in Firefox, then select New - Integer.\
 Make this the **preference name**:\
 browser.cache.memory.capacity\
 Enter the **integer value** in KB; I advise 204800 (which equals 200 MB). That's usually more than enough.\
@@ -67,7 +67,7 @@ Press Enter.\
 \
 By the way: you'll then also see a mention of an "appcache" which is still present on the disk, but there's no need to move that (much less frequently used) cache to the RAM as well.\
 \
-_**Note:**_ This is a user preference. Repeat this hack in each user account.\
+&#xNAN;_**Note:**_ This is a user preference. Repeat this hack in each user account.\
 \
 
 
@@ -91,9 +91,9 @@ c. Double-click on the item called **browser.sessionstore.interval**. The defaul
 \
 d. Close Firefox and launch it again. Now you've practically disabled the session restore feature.\
 \
-_**Note (1):**_ Leave the other cache and sessionstore settings as they are: usually, the less invasive a hack is, the better. Because this reduces the risk of unexpected unwanted side effects.\
+&#xNAN;_**Note (1):**_ Leave the other cache and sessionstore settings as they are: usually, the less invasive a hack is, the better. Because this reduces the risk of unexpected unwanted side effects.\
 \
-_**Note (2):**_ This is a user preference. Repeat this hack in each user account.\
+&#xNAN;_**Note (2):**_ This is a user preference. Repeat this hack in each user account.\
 \
 
 
